@@ -1,0 +1,24 @@
+{
+  "name": "chat-app-css-illustration-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w sass/style.scss -o css/style.css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ejiwen/chat-app-css-illustration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ejiwen/chat-app-css-illustration/issues"
+  },
+  "homepage": "https://github.com/Ejiwen/chat-app-css-illustration#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
